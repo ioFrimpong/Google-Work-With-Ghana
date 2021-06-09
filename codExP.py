@@ -8,7 +8,7 @@ def sum_divisors(n):
     # Return the sum of all divisors of n, not including n
     while n > x:
         if n % x == 0:
-            sum = sum + x
+            sum += x
             x += 1
         else:
             x += 1
