@@ -30,4 +30,4 @@ def factorial(x):
     return result
 
 
-factorial(3)
+factorial(4)
