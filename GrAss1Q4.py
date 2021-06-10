@@ -25,3 +25,4 @@ def counter(start, stop):
 print(counter(1, 10))  # Should be "Counting up: 1,2,3,4,5,6,7,8,9,10"
 print(counter(2, 1))  # Should be "Counting down: 2,1"
 print(counter(5, 5))  # Should be "Counting up: 5"
+print(counter(3, 5))  # Should be "Counting up: 3, 4, 5"
