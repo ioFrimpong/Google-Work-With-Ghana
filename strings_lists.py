@@ -16,5 +16,5 @@ def get_word(sentence, n):
 
 print(get_word("This is a lesson about lists", 4))  # Should print: lesson
 print(get_word("This is a lesson about lists", -4))  # Nothing
-print(get_word("Now we are cooking!", 1))  # Should print: Now
+print(get_word("Now we are cooking!", 2))  # Should print: we
 print(get_word("Now we are cooking!", 5))  # Nothing
